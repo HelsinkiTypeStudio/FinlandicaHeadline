@@ -1,3 +1,6 @@
+![finlandica main image](https://github.com/HelsinkiTypeStudio/FinlandicaHeadline/blob/main/documentation/finlandica-headline.png)
+
+
 # FinlandicaHeadline
 
 The official typeface of Finland commissioned by the Prime ministers office and Business Finland for the promotion of Finnish exports.

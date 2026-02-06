@@ -1,2 +1,7 @@
 .DS_Store
 *.glyphs~
+
+# Python virtualenv
+gf-env/
+__pycache__/
+*.pyc
